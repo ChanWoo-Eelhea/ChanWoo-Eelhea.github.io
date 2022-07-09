@@ -1,0 +1,8 @@
+/Desktop/wedding/invitation/chanwoo_eelhea_wedding.github.io
+
+디렉토리 밑에서
+
+git add .
+git status
+git commit -m "commit"
+git push origin main 
